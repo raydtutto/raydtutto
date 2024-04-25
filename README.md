@@ -1,4 +1,4 @@
-## Hello, I'm Ann 👋
+## Hello 👋
 
 Welcome to my profile! I'm taking my first steps in learning C++ and everything related to game development.  
 Thank you for visiting 🌎
