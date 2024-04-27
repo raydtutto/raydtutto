@@ -1,8 +1,8 @@
 ## Hello,
 
-Welcome to my profile! I'm taking my first steps in game development. Unfortunately, I don't know much about programming 🙈
+Welcome to my profile! I'm styding software and game development, seeking knowledge and solving problems every day 💪
 
-Thus I'm currently taking the [**CS50x**](https://cs50.harvard.edu/x/2024/) online course at Harvard University to improve my basic knowledge. Feel free to [check out](https://github.com/raydtutto/harvard-cs50x-2024) my lecture notes and problem solutions.
+Thus I'm currently taking the **CS50x** online course at Harvard University to improve my basic knowledge. Feel free to [check out](https://github.com/raydtutto/harvard-cs50x-2024) my lecture notes and problem solutions.
 
 Thank you for visiting 🌏
 
